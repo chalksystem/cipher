@@ -29,7 +29,6 @@ Next, the prompt "Enter a message:" will appear. After entering a message, it wi
 ```
 $ Enter a message:
                   secret message
-                   
 ```
 The encrypted message would be "QWDPWS JWQQCAW".
 
