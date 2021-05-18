@@ -1,0 +1,16 @@
+# Files #
+#################
+.DS_Store
+.Trashes
+.Spotlight-V100
+
+dhistory.txt
+dmessage.txt
+ehistory.txt
+emessage.txt
+
+# Directories #
+#################
+__pycache__
+
+ignored
