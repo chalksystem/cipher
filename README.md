@@ -32,11 +32,11 @@ $ Enter a message:
 ```
 The encrypted message would be "QWDPWS JWQQCAW".
 
-To decrypt the message, simply execute the decrypt.py file. The prompt "Enter a code word:" will appear and upon entering the last code word used, a decrypted message will be written to two file - one with the decrypted history and the other with the most recently decrypted word.
+To decrypt the message, simply execute the decrypt.py file. The prompt "Enter a code word:" will appear and upon entering the last code word used, a decrypted message will be written to two file - one with the decrypted history and the other with the most recently decrypted word. For example:
 
 ```
-$ Enter a message:
-                  code word
+$ Enter a code word:
+                    code word
 ```
 The decrypted message would be "SECRET MESSAGE". 
 
